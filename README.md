@@ -40,6 +40,7 @@ Beautifully and deterministically animate anything in react.
   - Anything [d3-interpolate](https://github.com/d3/d3-interpolate) can handle
 
 ## Demos
+- [CodeSandbox](https://codesandbox.io/s/jogkyXGP)
 - [Codepen](http://codepen.io/tannerlinsley/pen/dWYEwd?editors=0010)
 - [Storybook](https://react-move.js.org/?selectedKind=2.%20Demos&selectedStory=Kitchen%20Sink&full=0&down=0&left=1&panelRight=0&downPanel=kadirahq%2Fstorybook-addon-actions%2Factions-panel)
 
